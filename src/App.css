@@ -1,0 +1,28 @@
+.body{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo{
+  display: flex;
+  flex-direction: column;
+}
+
+.logo h3{
+  text-align: center;
+}
+
+.gambitorlogo{
+  scale:0.5;
+  height: 400px;
+}
+
+.footer{
+  text-align: end;
+  margin-top: 90px;
+}
